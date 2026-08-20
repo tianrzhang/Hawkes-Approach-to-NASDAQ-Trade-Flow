@@ -33,3 +33,5 @@ Ratio between Buy stream same and cross-side branching ratio = 16:1
 ![Contemporaneous Execution Volume and Intensity](contemp.png)
 
 ![Lagged Execution Volume and Intensity](lagged.png)
+
+# 
