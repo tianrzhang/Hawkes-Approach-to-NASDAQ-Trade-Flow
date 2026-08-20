@@ -20,18 +20,18 @@ Ratio between Sell stream same and cross-side branching ratio = 14:1
 
 Ratio between Buy stream same and cross-side branching ratio = 16:1 
 
-![Intensity as a Function of Time](intensity_function_time.png)
+![Intensity as a Function of Time](Figures/intensity_function_time.png)
 
-![Percentage Difference against Maximum Time](percentage_diff.png)
+![Percentage Difference against Maximum Time](Figures/percentage_diff.png)
 
-![Quantile-Quantile Plot](QQ_plot.png)
+![Quantile-Quantile Plot](Figures/QQ_plot.png)
 
-![Branching Ratios of Different Executions](branching_ratio.png)
+![Branching Ratios of Different Executions](Figures/branching_ratio.png)
 
-![AAPL Data, Intensity as a Function of Time](AAPL_intensity_time_function.png)
+![AAPL Data, Intensity as a Function of Time](Figures/AAPL_intensity_time_function.png)
 
-![Contemporaneous Execution Volume and Intensity](contemp.png)
+![Contemporaneous Execution Volume and Intensity](Figures/contemp.png)
 
-![Lagged Execution Volume and Intensity](lagged.png)
+![Lagged Execution Volume and Intensity](Figures/lagged.png)
 
-# 
+# Limitations
