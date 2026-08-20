@@ -51,3 +51,4 @@ Lagged Execution Volume and Intensity Spearman Coefficient:
 ![Lagged Execution Volume and Intensity](Figures/lagged.png)
 
 # Limitations
+A limitation of the model used is volume having no influence on the process and the the use of a single timescale. A more in depth write-up of the theory, results, and analysis can be found here: 
