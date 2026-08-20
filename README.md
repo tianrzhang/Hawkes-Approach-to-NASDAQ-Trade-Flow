@@ -36,19 +36,13 @@ Lagged Execution Volume and Intensity Spearman Coefficient:
 | Sell | 0.091 | 2.842e-5  |
 | Buy | 0.078 | 1.145e-4 |
 
-![Intensity as a Function of Time](Figures/intensity_time_function.png)
 
 ![Percentage Difference against Maximum Time](Figures/percentage_diff.png)
 
 ![Quantile-Quantile Plot](Figures/QQ_plot.png)
 
-![Branching Ratios of Different Executions](Figures/branching_ratio.png)
-
 ![AAPL Data, Intensity as a Function of Time](Figures/AAPL_intensity_time_function.png)
 
-![Contemporaneous Execution Volume and Intensity](Figures/contemp.png)
-
-![Lagged Execution Volume and Intensity](Figures/lagged.png)
 
 # Limitations
 A limitation of the model used is volume having no influence on the process and the the use of a single timescale. A more in depth write-up of the theory, results, and analysis can be found here: [Write-up for Hawkes Project](Hawkes_Project.pdf)
