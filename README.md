@@ -15,10 +15,26 @@ NumPy
 SciPy
 Matplotlib
 
-# Results
-Ratio between Sell stream same and cross-side branching ratio = 14:1
+# Results and Figures
+Branching Ratios:
+| Execution Type | Branching Ratio |
+|----------------|-----------------|
+| Sell to Sell | 0.434 |
+| Buy to Sell | 0.031 |
+| Buy to Buy | 0.445 |
+| Sell to Buy| 0.028 |
 
-Ratio between Buy stream same and cross-side branching ratio = 16:1 
+Contemporaneous Execution Volume and Intensity Spearman Coefficient:
+| Stream | Spearman coefficient | p-value |
+|--------|----------------------|---------|
+| Sell | -0.003 | 0.899 |
+| Buy | -0.045 | 0.026 |
+
+Lagged Execution Volume and Intensity Spearman Coefficient:
+| Stream | Spearman coefficient | p-value |
+|--------|----------------------|---------|
+| Sell | 0.091 | 2.842e-5  |
+| Buy | 0.078 | 1.145e-4 |
 
 ![Intensity as a Function of Time](Figures/intensity_time_function.png)
 
