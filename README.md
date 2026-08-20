@@ -7,6 +7,17 @@ The bivariate, exponential kernel Hawkes model uses 4 alpha values for the two t
 
 # Data 
 The data is accessed from: https://huggingface.co/datasets/totalorganfailure/lobster-data
+
 Title of data: AAPL message book level 50
 
 # Requirements
+NumPy
+SciPy
+Matplotlib
+
+# Results
+Ratio between Sell stream same and cross-side branching ratio = 14:1
+
+Ratio between Buy stream same and cross-side branching ratio = 16:1 
+
+!
